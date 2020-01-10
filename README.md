@@ -1,2 +1,2 @@
-# Github Tutorial No.1
+# Github Tutorial No.2
  Github Usage Tutorial
